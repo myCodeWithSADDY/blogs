@@ -1,0 +1,488 @@
+﻿{
+  "value": [
+    {
+      "id": "50000000-0000-0000-0000-000000000001",
+      "title": "Where Lahore’s Property Market Is Moving in 2026",
+      "slug": "where-lahores-property-market-is-moving-in-2026",
+      "excerpt": "A more selective market is rewarding completed infrastructure, livable neighborhoods and realistic pricing over speculative promises.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. Lahore’s property market is entering a period defined less by broad-based appreciation and more by a careful distinction between places people can use now and projects that still rely on future promises.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "text": "The return of the end user",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "Buyers are paying closer attention to access, utilities, schools and daily convenience. That shift gives established neighborhoods an advantage and forces newer schemes to compete on delivery rather than advertising.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "blockquote",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "In a selective market, infrastructure is not a footnote. It is the asset.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "text": "What investors should watch",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Transaction depth, not only asking prices",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Completion of access roads and utility networks",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Rental demand from actual residents",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Lahore property market selective completed infrastructure livable neighborhoods realistic pricing end user transaction depth rental demand.",
+      "featured_image_url": "/editorial/lahore-market.jpg",
+      "featured_image_alt": "Aerial view of a green Lahore residential district at sunset",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000001",
+      "author_id": "20000000-0000-0000-0000-000000000001",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-27T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Lahore Property Market Outlook 2026 | MunafaEstate",
+      "seo_description": "A data-led view of where Lahore property is moving in 2026, from established neighborhoods to emerging growth corridors.",
+      "reading_time": 8,
+      "featured": true,
+      "view_count": 4822,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-10-01T15:58:06.108615+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000002",
+      "title": "The New Investment Map of Islamabad",
+      "slug": "the-new-investment-map-of-islamabad",
+      "excerpt": "Capital flows are moving beyond familiar sectors—but access, approvals and delivery remain the filters that matter.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. Islamabad’s investment geography is widening as apartments, mixed-use projects and western growth corridors compete with the capital’s established sectors.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "text": "A broader market, not an easier one",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "The opportunity set is larger, but investors need stronger filters. Legal status, developer track record, road access and realistic rental demand should carry more weight than launch-stage discounts.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Islamabad investment sectors apartments mixed-use approvals access delivery rental demand.",
+      "featured_image_url": "/editorial/islamabad-investment.jpg",
+      "featured_image_alt": "Islamabad avenue facing modern civic buildings and the Margalla Hills",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000002",
+      "author_id": "20000000-0000-0000-0000-000000000002",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-25T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Islamabad Property Investment Map 2026 | MunafaEstate",
+      "seo_description": "Where capital is moving across Islamabad property—and the access, approval and delivery risks investors should examine.",
+      "reading_time": 7,
+      "featured": true,
+      "view_count": 3650,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000003",
+      "title": "What Higher Construction Costs Mean for Pakistan’s Housing Market",
+      "slug": "what-higher-construction-costs-mean-for-pakistans-housing-market",
+      "excerpt": "Cost pressure is changing project design, payment plans and the economics of new housing supply.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. Higher material and financing costs are forcing developers to redesign unit mixes, phase construction more carefully and revisit payment schedules.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "text": "Smaller units, slower delivery",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "The adjustment is visible in more compact floor plans and longer development timelines. Buyers should compare specifications closely and understand which costs remain variable.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Construction costs housing supply materials financing developers unit size delivery timelines.",
+      "featured_image_url": "/editorial/construction-costs.jpg",
+      "featured_image_alt": "Residential high-rise under construction with cranes",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000001",
+      "author_id": "20000000-0000-0000-0000-000000000001",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-22T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Pakistan Construction Costs and Housing | MunafaEstate",
+      "seo_description": "How higher construction costs are changing housing supply, unit design, payment plans and delivery in Pakistan.",
+      "reading_time": 6,
+      "featured": false,
+      "view_count": 2764,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000004",
+      "title": "A Practical Guide to Buying Property in DHA Lahore",
+      "slug": "a-practical-guide-to-buying-property-in-dha-lahore",
+      "excerpt": "How to compare phases, verify documents, assess possession and avoid paying for momentum alone.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. DHA Lahore is not one market. Each phase has a different combination of access, possession, services, commercial activity and resale depth.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "text": "Before you make an offer",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "orderedList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Verify ownership and transfer eligibility.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Visit at different times of day.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "text": "Compare completed streets, not only phase averages.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. DHA Lahore phase guide documents ownership transfer possession services resale.",
+      "featured_image_url": "/editorial/dha-guide.jpg",
+      "featured_image_alt": "Tree-lined street with contemporary homes in DHA Lahore",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000003",
+      "author_id": "20000000-0000-0000-0000-000000000003",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-20T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Buying Property in DHA Lahore: Practical Guide",
+      "seo_description": "A phase-by-phase framework for documentation, possession, access and value when buying property in DHA Lahore.",
+      "reading_time": 10,
+      "featured": true,
+      "view_count": 5311,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000005",
+      "title": "Five Things to Check Before Buying an Investment Property",
+      "slug": "five-things-to-check-before-buying-an-investment-property",
+      "excerpt": "A disciplined checklist for assessing rental demand, legal status, carrying costs, liquidity and downside risk.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. A convincing brochure is not an investment case. Start with legal title, real rental evidence and the depth of the resale market.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Investment property legal status rental demand carrying costs liquidity downside risk.",
+      "featured_image_url": "/editorial/islamabad-investment.jpg",
+      "featured_image_alt": "Modern Islamabad development against green hills",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000002",
+      "author_id": "20000000-0000-0000-0000-000000000003",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-18T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Investment Property Checklist Pakistan | MunafaEstate",
+      "seo_description": "Five essential checks for evaluating a property investment in Pakistan, from legal status to real rental demand.",
+      "reading_time": 5,
+      "featured": false,
+      "view_count": 2240,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000006",
+      "title": "Why Rental Yield Matters More Than the Asking Price",
+      "slug": "why-rental-yield-matters-more-than-the-asking-price",
+      "excerpt": "Headline prices can distract from the income, vacancy and maintenance figures that determine real performance.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. Property investors often anchor on the purchase price while underestimating vacancy, maintenance and the quality of tenant demand.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Rental yield asking price vacancy maintenance tenant demand investment return.",
+      "featured_image_url": "/editorial/dha-guide.jpg",
+      "featured_image_alt": "Established residential street with modern houses",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000002",
+      "author_id": "20000000-0000-0000-0000-000000000002",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-15T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Rental Yield in Pakistan Property | MunafaEstate",
+      "seo_description": "Why net rental yield—not the asking price—is the better starting point for property investment analysis.",
+      "reading_time": 6,
+      "featured": false,
+      "view_count": 1988,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000007",
+      "title": "The Property Tax Questions Buyers Should Ask in 2026",
+      "slug": "property-tax-questions-buyers-should-ask-in-2026",
+      "excerpt": "Withholding, capital gains and valuation rules can materially change the cost of a transaction.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content, not tax advice. Buyers should verify current federal and provincial obligations with qualified professionals before committing to a transaction.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Property tax withholding capital gains valuation federal provincial Pakistan buyer.",
+      "featured_image_url": "/editorial/construction-costs.jpg",
+      "featured_image_alt": "Urban development under construction in Pakistan",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000004",
+      "author_id": "20000000-0000-0000-0000-000000000001",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-13T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Pakistan Property Tax Questions for Buyers 2026",
+      "seo_description": "The tax and valuation questions Pakistani property buyers should raise before completing a transaction in 2026.",
+      "reading_time": 7,
+      "featured": false,
+      "view_count": 1754,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    },
+    {
+      "id": "50000000-0000-0000-0000-000000000008",
+      "title": "Karachi Apartments: Reading the Market Beyond the Headline Price",
+      "slug": "karachi-apartments-reading-the-market-beyond-the-headline-price",
+      "excerpt": "Water, maintenance, access and building management create sharp differences between apparently similar apartments.",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "This is sample editorial content. In Karachi, two apartments with similar floor area and asking price can carry very different risk depending on water security, management and the condition of shared systems.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "content_text": "This is sample editorial content. Karachi apartments water security maintenance building management access price.",
+      "featured_image_url": "/editorial/lahore-market.jpg",
+      "featured_image_alt": "Dense Pakistani city neighborhood viewed from above",
+      "status": "PUBLISHED",
+      "category_id": "10000000-0000-0000-0000-000000000005",
+      "author_id": "20000000-0000-0000-0000-000000000003",
+      "created_by": "00000000-0000-0000-0000-000000000001",
+      "published_at": "2026-09-11T15:29:58.768214+00:00",
+      "scheduled_at": null,
+      "seo_title": "Karachi Apartment Buying Guide | MunafaEstate",
+      "seo_description": "How to compare Karachi apartments using water, maintenance, access and management—not headline price alone.",
+      "reading_time": 8,
+      "featured": false,
+      "view_count": 1443,
+      "created_at": "2026-09-29T15:29:58.768214+00:00",
+      "updated_at": "2026-09-29T15:29:58.768214+00:00"
+    }
+  ],
+  "Count": 8
+}
